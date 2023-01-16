@@ -5,3 +5,5 @@ Using an ADXL345 Accelerometer with a Pocketbeagle to make a roll/pitch indicato
 
 Results provided below:
 
+https://user-images.githubusercontent.com/61733487/212761469-d2fa9a0a-e5e0-4223-a05e-9703219c2f49.mp4
+
